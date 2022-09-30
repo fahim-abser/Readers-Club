@@ -47,6 +47,7 @@ img {
     border: none;
     color: aliceblue;
     padding: 10px 70px;
+    border-radius: 10px;
 }
 
 .activity-btn:hover {

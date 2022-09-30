@@ -7,15 +7,15 @@ const Writer = (props) => {
     const { name, picture, timeRequired, pages, about } = writer;
     return (
         <Card className='writer'>
-            <Card.Img className='writer-img' src={picture} />
+            <Card.Img className='writer-img center' src={picture} />
             <Card.Body>
-                <Card.Title>{name}</Card.Title>
-                <Card.Text>
+                <Card.Title className='left'><span className='bold-name '>{name}</span></Card.Title>
+                <Card.Text className='left'>
                     {about}
                     <br />
-                    Time:{timeRequired}
+                    Time:<span className='bold'>{timeRequired}</span>
                     <br />
-                    Pages:{pages}
+                    Pages: <span className='bold'>{pages}</span>
                 </Card.Text>
                 <Button onClick={() => addWantToRead(writer)} className='btn-read'>Want to Read</Button>
             </Card.Body>

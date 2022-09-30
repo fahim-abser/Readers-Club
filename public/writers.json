@@ -1,17 +1,17 @@
 [
     {
         "id": "1",
-        "timeRequired": "2.0 hours",
+        "timeRequired": "5 minutes",
         "picture": "https://i.ibb.co/BwYxb4J/tagore.png",
         "name": "Rabindranath Tagore",
-        "about": "Rabindranath Tagore was a Bengali polymath who worked as a poet, writer, playwright, composer, philosopher, social reformer and painter.",
+        "about": "Rabindranath Tagore FRAS was a Bengali polymath who worked as a social reformer, poet, writer, playwright, composer, philosopher, social reformer and painter. He was born 1861",
         "pages": "189"
     },
     {
         "id": "2",
         "picture": "https://i.ibb.co/f0B0sYw/nazrul.png",
         "name": "Kazi Nazrul Islam",
-        "timeRequired": "1.5 hours",
+        "timeRequired": "12 minutes",
         "about": "Kazi Nazrul Islam was a Bengali poet, writer, musician, and is the national poet of Bangladesh. Nazrul is regarded as one of the greatest poets in Bengali literature.",
         "pages": "129"
     },
@@ -19,29 +19,29 @@
         "id": "3",
         "picture": "https://i.ibb.co/k4LybM2/Arthur-Conan-Doyle.png",
         "name": "Sir Arthur Conan Doyle",
-        "timeRequired": "1.0 hours",
-        "about": "Sir Arthur Ignatius Conan Doyle KStJ DL was a British writer and physician. He created the character Sherlock Holmes in 1887 for A Study in Scarlet.",
+        "timeRequired": "8 minutes",
+        "about": "Sir Arthur Ignatius Conan Doyle KStJ DL was a British writer and physician. He created the character Sherlock Holmes in 1887 for A Study in Scarlet. He was bonn 1859",
         "pages": "363"
     },
     {
         "id": "4",
-        "timeRequired": "2.0 hours",
+        "timeRequired": "9 minutes",
         "picture": "https://i.ibb.co/CKyJjs6/william-shakespeare.png",
         "name": "William Shakespear",
-        "about": "William Shakespeare was an English playwright, poet and actor. He is widely regarded as the greatest writer in the English language and the world's greatest dramatist.",
+        "about": "William Shakespeare was an English playwright, poet and actor. He is widely regarded as the greatest writer in the English language and the world's greatest dramatist. He was bonn 1564",
         "pages": "225"
     },
     {
         "id": "5",
-        "timeRequired": "2.5 hours",
+        "timeRequired": "9 minutes",
         "picture": "https://i.ibb.co/tzVbSwB/Sarat-Chandra.png",
-        "name": "Sharat Chandra Chattopadhyay",
-        "about": "Sarat Chandra Chattopadhyay, alternatively spelt as Sarat Chandra Chatterjee was a Bengali novelist and short story writer of the early 20th century.",
+        "name": "Sharat Chandra",
+        "about": "Sarat Chandra Chattopadhyay, alternatively spelt as Sarat Chandra Chatterjee was a Bengali novelist and short story writer of the early 20th century. He was born 1876",
         "pages": "128"
     },
     {
         "id": "6",
-        "timeRequired": "1.0 hours",
+        "timeRequired": "12 minutes",
         "picture": "https://i.ibb.co/SycNRxw/allama-Iqbal.jpg",
         "name": "Allama Iqbal",
         "about": "Sir Muhammad Iqbal Kt, was a South Asian Muslim writer, philosopher, and politician, whose poetry in the Urdu language is considered among the greatest of the twentieth century.",

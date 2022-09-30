@@ -1,6 +1,6 @@
 .break {
     width: 30px;
-    height: 20.5px;
+    height: 22.5px;
     border-radius: 50%;
     background-color: blue;
     border: none;
@@ -16,5 +16,35 @@
 }
 
 .break-button {
+    display: flex;
+    background-color: rgb(245, 245, 208);
+    padding: 15px;
+    padding-left: 28px;
+    border-radius: 5px;
+}
+img{
+    height: 30px;
+    width: 30px;
+}
+.info{
+    display: flex;
+    background-color: beige;
+    border-radius: 10px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+.space-right{
+    padding-right: 48px;
+}
+.activity-btn{
+    background-color: rgb(14, 74, 165);
+    border: none;
+    color: aliceblue;
+    padding: 10px 70px;
+}
+.activity-btn:hover{
+    background-color: black;
+}
+.information{
     display: flex;
 }

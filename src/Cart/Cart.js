@@ -20,14 +20,28 @@ const Cart = (props) => {
     return (
         <div>
             <div className="cart-container">
+                <div className='information'>
                 <div>
-                    <h1>Navil</h1>
-                    <p><small>Mohammadpur,Dhaka</small> </p>
+                <img src="./me.png" alt="" />
                 </div>
                 <div>
-                    Weight: 75<small>kg </small>
-                    Height: 5.6
-                    Age: 25<small>yrs</small>
+                    <p className='bold-name'>Fahim Abser </p>
+                    <p><small>Mohammadpur,Dhaka</small> </p>
+                </div>
+                </div>
+                <div className='info'>
+                    <div className='space-right'>
+                    <h4>65 <small>kg</small></h4>
+                    <small>Weight</small>
+                    </div>
+                    <div>
+                    <h4 className='space-right'>5.6 <small>kg</small></h4>
+                    <small>Height</small>
+                    </div>
+                    <div>
+                    <h4>25 <small>yrs</small></h4>
+                    <small>Age</small>
+                    </div>
                 </div>
                 <div className='add-break'>
                     <p>Add A Break</p>
@@ -42,9 +56,9 @@ const Cart = (props) => {
                 </div>
                 <div>
                     <p>Reading Details</p>
-                    <p>Reading Time: {time}min </p>
+                    <p>Reading Time: {time} min </p>
                     <p>Break Time: <input type="text" value={setHaveBreak} /></p>
-                    <button>Activity Complete</button>
+                    <button className='activity-btn'>Activity Completed</button>
                 </div>
             </div>
         </div>

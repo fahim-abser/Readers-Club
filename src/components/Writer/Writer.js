@@ -13,9 +13,9 @@ const Writer = (props) => {
                 <Card.Text className='left'>
                     {about}
                     <br />
-                    Time:<span className='bold'>{timeRequired}</span>
+                    Time: <span className='bold'>{timeRequired}</span>
                     <br />
-                    Pages: <span className='bold'>{pages}</span>
+                    Summary: <span className='bold'>{pages}</span> pages
                 </Card.Text>
                 <Button onClick={() => addWantToRead(writer)} className='btn-read'>Want to Read</Button>
             </Card.Body>

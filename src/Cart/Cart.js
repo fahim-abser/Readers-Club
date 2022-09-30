@@ -49,10 +49,9 @@ const Cart = (props) => {
                 <div className='add-break'>
                     <p className='bold'>Add A Break</p>
                     <div className='break-button'>
-                        <button value='2' onClick={haveABreak} className='break'>2m</button>
-                        <button className='break' value='3' onClick={haveABreak} >3m</button>
-                        <button className='break'
-                            value='4' onClick={haveABreak} >4m</button>
+                        <button className='break'>2m</button>
+                        <button className='break'>3m</button>
+                        <button className='break'>4m</button>
                         <button className='break'>5m</button>
                         <button className='break'>6m</button>
                     </div>

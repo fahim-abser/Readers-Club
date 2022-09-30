@@ -44,7 +44,7 @@ const Cart = (props) => {
                     </div>
                 </div>
                 <div className='add-break'>
-                    <p>Add A Break</p>
+                    <p className='bold'>Add A Break</p>
                     <div className='break-button'>
                         <button value='2' onClick={haveABreak} className='break'>2m</button>
                         <button className='break' value='3' onClick={haveABreak} >3m</button>
@@ -55,9 +55,9 @@ const Cart = (props) => {
                     </div>
                 </div>
                 <div>
-                    <p>Reading Details</p>
-                    <p>Reading Time: {time} min </p>
-                    <p>Break Time: <input type="text" value={setHaveBreak} /></p>
+                    <p className='bold'>Reading Details</p>
+                    <p className='bold'>Reading Time: {time} min </p>
+                    <p className='bold'>Break Time: <input type="text" value={setHaveBreak} /></p>
                     <button className='activity-btn'>Activity Completed</button>
                 </div>
             </div>

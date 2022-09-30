@@ -11,7 +11,8 @@
 .break:hover {
     background-color: rgb(147, 147, 205);
 }
-.add-break{
+
+.add-break {
     margin-top: 0px;
 }
 
@@ -22,29 +23,37 @@
     padding-left: 28px;
     border-radius: 5px;
 }
-img{
+
+img {
     height: 30px;
     width: 30px;
+    margin-top: 20px;
 }
-.info{
+
+.info {
     display: flex;
     background-color: beige;
     border-radius: 10px;
     padding-bottom: 15px;
     padding-left: 15px;
 }
-.space-right{
+
+.space-right {
     padding-right: 48px;
 }
-.activity-btn{
+
+.activity-btn {
     background-color: rgb(14, 74, 165);
     border: none;
     color: aliceblue;
     padding: 10px 70px;
 }
-.activity-btn:hover{
+
+.activity-btn:hover {
     background-color: black;
 }
-.information{
+
+.information {
     display: flex;
 }
+

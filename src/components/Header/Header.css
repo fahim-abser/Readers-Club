@@ -1,5 +1,10 @@
 .header-position{
     padding-left: 40px;
+    display: flex;
+    align-items: center;
+}
+.header-position h2{
+    padding-left: 15px;
 }
 @media only screen and (max-width: 600px) {
     .header-position{

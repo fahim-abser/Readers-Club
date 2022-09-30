@@ -1,0 +1,20 @@
+.break {
+    width: 30px;
+    height: 20.5px;
+    border-radius: 50%;
+    background-color: blue;
+    border: none;
+    color: white;
+    margin-left: 10px;
+}
+
+.break:hover {
+    background-color: rgb(147, 147, 205);
+}
+.add-break{
+    margin-top: 0px;
+}
+
+.break-button {
+    display: flex;
+}

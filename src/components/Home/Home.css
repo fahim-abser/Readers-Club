@@ -1,0 +1,17 @@
+.reading-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.writer-info {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.user-name small {
+    margin-top: -5px;
+}
+
+.break {
+    display: flex;
+}

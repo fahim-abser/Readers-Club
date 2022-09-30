@@ -57,4 +57,6 @@ img {
 .information {
     display: flex;
 }
-
+.information img{
+    border-radius: 50%;
+}
